@@ -1,1 +1,33 @@
+# IDE
+.vscode/
+.idea/
 
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.log
+
+# Python (future-proof if you add scripts)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node (if you later build GitHub Pages)
+node_modules/
+
+# Build artifacts
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
